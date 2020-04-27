@@ -1,0 +1,56 @@
+
+Circuit Experiments
+
+Experiment 1: Blink
+Experiment 2: Multiple LEDs
+Experiment 3: Reading a Sensor - Potentiometer
+Experiment 4: Reading a Button
+Experiment 5: Reading a Switch
+Experiment 6: Reading a Light Sensor
+Experiment 7: Fading an LED
+Experiment 8: Controlling an RGB LED
+Experiment 9: Using an H-Bridge - Motor Control
+Experiment 10: I2C Sensor with BMP180
+Experiment 11: Moisture Sensor
+Experiment 12: LCD Screen
+Experiment 13: Shift Register + LEDs
+Experiment 14: Shift Register + Seven Segment
+
+
+
+
+Kit Includes
+
+Tessel 2
+White Breadboard
+SparkFun Motor Driver
+SparkFun Soil Moisture Sensor (With Screw Terminals)
+SparkFun BME280 Breakout (With Headers)
+16x2 Character LCD - White on Black (With Headers)
+7 Segment Display
+Hobby Gearmotor (Pair)
+Shift Register
+Magnetic Door Switch Set
+Mini Photocell
+Switch (SPDT)
+Red, Blue, Yellow, and Green Tactile Buttons
+Red, Blue, Yellow, and Green LEDs
+RGB LED
+Trimpot - 10K
+Jumper Wires - M/M 6"
+USB microB Cable - 6 Foot
+Wall Charger - 5V USB (1A)
+10K Ohm Resistors
+330 Ohm Resistors
+
+
+
+
+Documents
+
+Online Experiment Guide (Coming Soon!)
+Tessel 2 Design Files
+Tessel 2 Command Line Interface
+Tessel 2 Firmware
+Johnny-Five API
+Johnny-Five Home Page
