@@ -7,7 +7,7 @@ var board = new five.Board({
 board.on("ready", function() {
   var sensor = new five.Sensor({
     pin: "a7",
-    threshold: 2
+    threshold: 2 // 역치
   });
   var led = new five.Led("b5");
 
