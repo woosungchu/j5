@@ -1,5 +1,24 @@
-#### j5
+#### Johnny-five
 
+#### Arduino
+
+1. download build tools
+```
+$ npm --add-python-to-path install --global --production windows-build-tools
+$ npm install -g node-gyp
+```
+2. setup arduino hardware & download plugin with online IDE
+ - Open [Arduino IDE](https://www.arduino.cc/en/main/software)
+ - Verify correct port and board
+ - Navigate to File > Examples > Firmata > StandardFirmataPlus
+ - Upload sketch onto board.
+
+###### Reference
+ - [Johnny-five Getting-Started](https://github.com/rwaldron/johnny-five/wiki/Getting-Started)
+ - [Arduino IDE](https://www.arduino.cc/en/main/software)
+
+
+#### Tessel 2
 
 ```
 // to install
